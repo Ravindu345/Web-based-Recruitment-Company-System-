@@ -1,0 +1,118 @@
+
+9
+Faculty of Computing
+Software Engineering - SE2030
+Year 2 Semester 1 (2025)
+Web-based Recruitment Company
+System
+Group ID: 2025-Y2-S1-MLB-B8G2-01
+Batch Group No: 08.02
+
+Six Major Functions
+1. Job Post Approvals
+Assigned to: De Silva P.K.N (IT24102131)
+User: Recruitment Manager
+Function: Allows hiring managers to create, publish, update, or remove job listings.
+Expected Outcome: Job listings are made visible to job seekers in real-time.
+CRUD operations:
+Create: Approve and publish a new job post.
+Read: View pending, approved, and rejected job posts.
+Update: Change approval status (e.g., approve → reject).
+Delete: Remove an approved job post from listings
+2. Candidate Interview Schedules
+Assigned to: Kuruppuarachchige K.A.H.B (IT24102046)
+User: HR Assistant
+Function: Enables HR staff to search candidate profiles using filters such as skill, education,
+and location.
+Expected Outcome: HR can efficiently generate lists of qualified applicants.
+CRUD operations:
+Create: Add new interview schedule for a candidate.
+Read: View all upcoming and past interviews.
+Update: Change interview date, time, or interviewer.
+Delete: Cancel an interview schedule.
+6
+3. User Accounts
+Assigned to: Withana W.Y.P (IT24102008)
+User: IT Officer / Admin
+Function: Admins manage access control, system logs, and enforce platform policies.
+Expected Outcome: Secure platform operation and compliance with rules.
+CRUD operations:
+Create: Register a new system user account.
+Read: View list of all system users.
+Update: Modify user details (e.g., email, password).
+Delete: Remove or deactivate a user account.
+4. Employer Company Profiles
+Assigned to: Pihara H.G.T (IT24102070)
+User: Client Relations Executive
+Function: Tracks employer account activity, job posting frequency, and candidate
+interactions.
+Expected Outcome: Ensures active and satisfied employer participation.
+CRUD operations:
+Create: Add a new company profile to the system.
+Read: View company details and status.
+Update: Edit company information (e.g., contact person, address).
+Delete: Remove a company profile from the database.
+5. Profile & Applications
+Assigned to: Dilshan R.M.R (IT24102181)
+User: Job Seeker
+Function: Enables users to upload resumes, enter personal details, and build a searchable
+profile.
+Expected Outcome: Applications are recorded and accessible to recruiters for shortlisting
+CRUD operations:
+Create: Create new user profile, upload CV, submit job application.
+Read: View job listings and application history
+Update: Edit personal profile details or withdraw an application.
+Delete: Remove profile or delete an application
+7
+6. Job Postings
+Assigned to: Inshaf M.J.M (IT24100618)
+User: Company Hiring Manager
+Function: Creates, edits, and removes job postings they have published in the system.
+Expected Outcome: Job listings remain accurate, updated, and relevant for potential
+candidates.
+CRUD operations:
+Create: Post a new job opening.
+Read: View all job postings they created.
+Update: Edit job posting details (e.g., job title, description)
+Delete: Remove a job posting from the system.
+Common Supportive Functions:
+• Login/logout
+• Password reset mechanism
+• In-app notifications
+7. Minor Functions
+• Upload and update profile photos
+• Bookmark jobs for future application
+• Withdraw submitted applications
+• Admin access to basic analytics dashboar
+
+8. System Limitations / Constraints
+• The system will be optimized for desktop browsers only, with minimal mobile
+support.
+• No email, SMS, or third-party integration features in this phase.
+• File size for resumes will be restricted to 2MB.
+• All user and job data will be stored in structured text files using Java I/O.
+8
+
+10. Conclusion
+LankaJobsHub.com is designed to meet the growing need for an efficient and accessible
+digital recruitment platform in Sri Lanka. The system aims to modernize traditional hiring
+methods by reducing dependency on paper-based processes and fragmented job postings. By
+offering an all-in-one platform for job seekers and employers, the system delivers real-world
+functionality and academic relevance.
+Our development approach emphasizes modularity, secure Java-based implementation, and
+real-time interaction capabilities. With well-defined user roles and clearly assigned functions,
+each team member will contribute to the successful and timely delivery of the platform. This
+project not only aligns with the objectives of the SE2030 module but also reflects our
+commitment to practical software engineering practices. The system has significant potential
+for real-world application and can be further enhanced in future iterations.
+9
+11. Reference:
+• Chaudhuri, A. (2020). Online Recruitment System: Challenges and Solutions.
+International Journal of Human Resource Studies.
+• Sommerville, I. (2016). Software Engineering (10th ed.). Pearson Education.
+• Pressman, R. S., & Maxim, B. R. (2014). Software Engineering: A Practitioner’s
+Approach (8th ed.). McGraw-Hill Education.
+• Oracle. (2024). Java EE Web Application Architecture. Retrieved from
+https://www.oracle.com/java
+• World Bank. (2023). Digital Job Platforms and the Future of Work in South Asia.
+Retrieved from https://documents.worldbank.org
